@@ -1,0 +1,1176 @@
+fileFormatVersion: 2
+guid: 6169e8427b9e13d4ebc18732a61b81e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2498717580944687147
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_0
+  - first:
+      213: 7270253849986953364
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_1
+  - first:
+      213: -4073445688872169276
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_2
+  - first:
+      213: -5275327534076025162
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_3
+  - first:
+      213: -7191181544977998235
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_4
+  - first:
+      213: -2620751515320005287
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_5
+  - first:
+      213: 7587132786683098460
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_6
+  - first:
+      213: -3146659407517260228
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_7
+  - first:
+      213: 6067879391523333265
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_8
+  - first:
+      213: -1804185332051394268
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_9
+  - first:
+      213: -8725759258725357322
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_10
+  - first:
+      213: -1149230006164259164
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_11
+  - first:
+      213: -2524739973818462134
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_12
+  - first:
+      213: 3654857704352580241
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_13
+  - first:
+      213: -4766088693073719828
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_14
+  - first:
+      213: 1168353394952850373
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_15
+  - first:
+      213: -4956271403757726662
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_16
+  - first:
+      213: 4468351479018904214
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_17
+  - first:
+      213: -8316937084444154309
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_18
+  - first:
+      213: -3874393188769753660
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_19
+  - first:
+      213: -8374556210061416855
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_20
+  - first:
+      213: -1310197893778143953
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_21
+  - first:
+      213: 2422374086634071754
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_22
+  - first:
+      213: -4277759392233754858
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_23
+  - first:
+      213: -2047775897329901355
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_24
+  - first:
+      213: 4429587945685300272
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_25
+  - first:
+      213: 1040895535651891739
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_26
+  - first:
+      213: 5463972896575446748
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_27
+  - first:
+      213: 3295318600485192383
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_28
+  - first:
+      213: 7991969824774001516
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_29
+  - first:
+      213: 6402530992935657058
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_30
+  - first:
+      213: 5313675869595403820
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_31
+  - first:
+      213: 5457697915161608589
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_32
+  - first:
+      213: 730016984682518418
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_33
+  - first:
+      213: 1092083629605947702
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_34
+  - first:
+      213: -229892195822376286
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_35
+  - first:
+      213: -4794401783716271637
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_36
+  - first:
+      213: -8657453084962540959
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_37
+  - first:
+      213: 3649036563012032597
+    second: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_38
+  - first:
+      213: -5696508255863793847
+    second: JoinTheHighScores
+  - first:
+      213: 6726904598786036979
+    second: Register
+  - first:
+      213: -1756751499493935333
+    second: Login
+  - first:
+      213: 944873519412727230
+    second: ForgotPassword
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b204b3ea66a3da220800000000000000
+      internalID: 2498717580944687147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 191
+        width: 168
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490736b6b5125e460800000000000000
+      internalID: 7270253849986953364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 189
+        width: 110
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c09dee5ab63877c0800000000000000
+      internalID: -4073445688872169276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_3
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 184
+        width: 104
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6af81ce854ac6b0800000000000000
+      internalID: -5275327534076025162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 197
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56edd304c7ac33c90800000000000000
+      internalID: -7191181544977998235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 172
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dc8c4d16831abd0800000000000000
+      internalID: -2620751515320005287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 147
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5537f53219ea4960800000000000000
+      internalID: 7587132786683098460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 221
+        width: 52
+        height: 33
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.44635195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36eac9c0f1d454d0800000000000000
+      internalID: -3146659407517260228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 224
+        width: 142
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8691c6f20e7e680800000000000000
+      internalID: -8725759258725357322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 28
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aefb55f56d1d00f0800000000000000
+      internalID: -1149230006164259164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_12
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 236
+        width: 108
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a405256de5256fcd0800000000000000
+      internalID: -2524739973818462134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_13
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 221
+        width: 108
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1920984c7b9a8b230800000000000000
+      internalID: 3654857704352580241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_14
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 206
+        width: 108
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedc551e5937bddb0800000000000000
+      internalID: -4766088693073719828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_15
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 239
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb4946f833d63010800000000000000
+      internalID: 1168353394952850373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_16
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 239
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a341890fa69c73bb0800000000000000
+      internalID: -4956271403757726662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 239
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a538eeef5c20e30800000000000000
+      internalID: 4468351479018904214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 239
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36ee6669cd449c80800000000000000
+      internalID: -8316937084444154309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 239
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c59f271ce36b3ac0800000000000000
+      internalID: -3874393188769753660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_20
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 239
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9666fbb4f7997cb80800000000000000
+      internalID: -8374556210061416855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 239
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2583e315fd31dde0800000000000000
+      internalID: -1310197893778143953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 208
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac66fe2c5600e9120800000000000000
+      internalID: 2422374086634071754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 208
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fe05f4f7852a4c0800000000000000
+      internalID: -4277759392233754858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_24
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 208
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d06b04cba6d493e0800000000000000
+      internalID: -2047775897329901355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_25
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 208
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034bce384ce097d30800000000000000
+      internalID: 4429587945685300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_26
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 220
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a22da89f0027e00800000000000000
+      internalID: 1040895535651891739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_27
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 256
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdeddba666ee3db40800000000000000
+      internalID: 5463972896575446748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_28
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 256
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb248abcec25bbd20800000000000000
+      internalID: 3295318600485192383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_29
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 151
+        width: 168
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c639b4d563e29ee60800000000000000
+      internalID: 7991969824774001516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_32
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 370
+        width: 70
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8109947653adbb40800000000000000
+      internalID: 5457697915161608589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 474
+        width: 144
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19469a75820753450800000000000000
+      internalID: 6067879391523333265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 158
+        width: 58
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4214b1edffe36f6e0800000000000000
+      internalID: -1804185332051394268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_30
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 158
+        width: 100
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26edb59140c5ad850800000000000000
+      internalID: 6402530992935657058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_31
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 193
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c268cc2ec08fdb940800000000000000
+      internalID: 5313675869595403820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_33
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 39
+        width: 140
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297d00c649a812a00800000000000000
+      internalID: 730016984682518418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_34
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 23
+        width: 115
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6398ea7664cd72f00800000000000000
+      internalID: 1092083629605947702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_35
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 169
+        width: 66
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa6f5314424fccf0800000000000000
+      internalID: -229892195822376286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_36
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 146
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9a713cafcd67db0800000000000000
+      internalID: -4794401783716271637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_37
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 131
+        width: 151
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162b233d94c8ad780800000000000000
+      internalID: -8657453084962540959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OCTOWUSS_SPRITES_V1_PHOTOSHOP_FILE_38
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 6
+        width: 115
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5589ebeab6bf3a230800000000000000
+      internalID: 3649036563012032597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoinTheHighScores
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 97
+        width: 84
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94798253cefe1f0b0800000000000000
+      internalID: -5696508255863793847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Register
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 81
+        width: 63
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f455988714ca5d50800000000000000
+      internalID: 6726904598786036979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Login
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 65
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b177702a1d3ce97e0800000000000000
+      internalID: -1756751499493935333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgotPassword
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 49
+        width: 111
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdc442b57ddc1d00800000000000000
+      internalID: 944873519412727230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
