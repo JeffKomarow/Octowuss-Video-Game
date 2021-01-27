@@ -10,6 +10,8 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+PlayFabEditorPrefsSO.asset
+
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
 
@@ -61,3 +63,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/PlayFabSDK/Shared/Public/Resources/PlayFabSharedSettings.asset
+
+Assets/PlayFabSDK/Shared/Public/Resources/PlayFabSharedSettings.asset.meta
